@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "price": 0,
+        "category": "story book",
+        "image": "https://pendulo.com/imagenes_grandes/9786070/978607072414.GIF"
+    },
+    {
+        "id": 2,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "price":0,
+        "year": 1965,
+        "category": "Sci-Fi",
+        "image": "https://cdn8.openculture.com/2020/12/16000433/duneillustrated-scaled.jpeg"
+        
+    },
+    {
+        "id": 3,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "price":564,
+        "year": 1997,
+        "category": "Fantasy",
+        "image": "https://media1.popsugar-assets.com/files/thumbor/Is5--PRW8i4fFNM032ExvHyC1Jk/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/06/27/228/n/1922283/95e939cb14dd65be_img/i/Harry-Potter-Sorcerer-Stone-JK-Rowling.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "price":0,
+        "year": 2005,
+        "category": "Mystery",
+        "image": "https://th.bing.com/th/id/R.a0853d1efe99e4933e8c63eeb904f761?rik=nPmWC4Knzengtg&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9780307454546_p0_v3_s1200x630.jpg&ehk=6gQPzbjMscnva19UpsNpiaev30bgZHc3OhYC77Uwyv8%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 5,
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "price":0,
+        "year": 2011,
+        "category": "Non-Fiction",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/4/KF/FC/LN/112660318/sapiens-a-brief-history-of-humankind-1000x1000.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "price":0,
+        "year": 2011,
+        "category": "Biography",
+        "image": "https://i.pinimg.com/originals/02/f2/b5/02f2b5dd33de2f6dbfd327fcb465ea95.png"
+    },
+    {
+        "id": 7,
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "price":456,
+        "year": 2005,
+        "category": "Historical Fiction",
+        "image": "https://m.media-amazon.com/images/I/91u1Y2-lqeL._SL1500_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price":399,
+        "year": 1813,
+        "category": "Romance",
+        "image": "https://www.goodandbeautiful.com/wp-content/uploads/2019/09/Pride_and_Prejudice_Cover-Amazon-Front__77495.1569338564.386.513.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "price":0,
+        "year": 2012,
+        "category": "Thriller",
+        "image": "https://th.bing.com/th/id/R.fd0bff1e4681a82013b3320fa5d736d8?rik=T9%2bz97bsUQGZ6A&riu=http%3a%2f%2fwww.makingthymeforhealth.com%2fwp-content%2fuploads%2f2014%2f10%2fGone-Girl-by-Jillian-Flynn.jpg&ehk=ho60IS5uwvpz%2bJVHM2he3KdK7xN01ZKgskFXctdfXHw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 10,
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "price":444,
+        "year": 2012,
+        "category": "Self-Help",
+        "image": "https://th.bing.com/th/id/OIP.4HluzlgQFBdvf67Ee7MwrgHaHa?rs=1&pid=ImgDetMain"
+    }
+]
